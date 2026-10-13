@@ -1,0 +1,8 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Joos;Elke;;;
+FN:Elke Joos
+ORG:Van Hecke Ramen en Deuren
+TEL;TYPE=WORK,VOICE:+3254331123
+EMAIL;TYPE=WORK:elke@van-hecke.com
+END:VCARD
