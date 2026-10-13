@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Bogaert;Evelien;;;
+FN:Evelien Bogaert
+ORG:Van Hecke Ramen en Deuren
+TEL;TYPE=WORK,VOICE:+3254331123
+TEL;TYPE=CELL:+32473657843
+EMAIL;TYPE=WORK:evelien@van-hecke.com
+END:VCARD
