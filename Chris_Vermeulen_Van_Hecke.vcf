@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Vermeulen;Chris;;;
+FN:Chris Vermeulen
+ORG:Van Hecke Ramen en Deuren
+TEL;TYPE=WORK,VOICE:054 33 11 23
+TEL;TYPE=CELL:0471 67 44 31
+EMAIL;TYPE=INTERNET,WORK:chris@van-hecke.com
+END:VCARD
