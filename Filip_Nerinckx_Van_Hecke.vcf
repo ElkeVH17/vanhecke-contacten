@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Nerinckx;Filip;;;
+FN:Filip Nerinckx
+ORG:Van Hecke Ramen en Deuren
+TEL;TYPE=WORK,VOICE:054 33 11 23
+TEL;TYPE=CELL:0470 01 90 24
+EMAIL;TYPE=INTERNET,WORK:filip@van-hecke.com
+END:VCARD
