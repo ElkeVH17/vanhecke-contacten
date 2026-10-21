@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Van der Haegen;Manuel;;;
+FN:Manuel Van der Haegen
+ORG:Van Hecke Ramen en Deuren
+TEL;TYPE=WORK,VOICE:+3254331123
+TEL;TYPE=CELL:+32478784773
+EMAIL;TYPE=WORK,INTERNET:manuel@van-hecke.com
+END:VCARD
