@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Devos;Jens;;;
+FN:Jens Devos
+ORG:Van Hecke Ramen en Deuren
+TEL;TYPE=WORK,VOICE:054 33 11 23
+TEL;TYPE=CELL:0473 73 26 56
+EMAIL;TYPE=INTERNET,WORK:jens@van-hecke.com
+END:VCARD
