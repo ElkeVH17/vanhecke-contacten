@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Podsiadly;Krystian;;;
+FN:Krystian Podsiadly
+ORG:Van Hecke Ramen en Deuren
+TEL;TYPE=WORK,VOICE:054 33 11 23
+TEL;TYPE=CELL:0479 58 84 92
+EMAIL;TYPE=INTERNET,WORK:krystian@van-hecke.com
+END:VCARD
