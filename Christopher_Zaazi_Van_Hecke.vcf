@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Zaazi;Christopher;;;
+FN:Christopher Zaazi
+ORG:Van Hecke Ramen en Deuren
+TEL;TYPE=WORK,VOICE:054 33 11 23
+TEL;TYPE=CELL:0497 08 29 10
+EMAIL;TYPE=INTERNET,WORK:christopher@van-hecke.com
+END:VCARD
